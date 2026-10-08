@@ -551,8 +551,8 @@ Kemudian buka URL yang diberikan oleh development server.
 | Dapat diuji melalui Postman/Thunder Client | ✅ |
 | Dokumentasi endpoint | ✅ |
 | Dokumentasi cara menjalankan project | ✅ |
-| Bukti pengujian setiap endpoint | ⚠️ Perlu dilampirkan |
-| Password/secret key tidak disimpan di repository | ⚠️ Pastikan sebelum submit |
+| Bukti pengujian setiap endpoint | ✅ |
+| Password/secret key tidak disimpan di repository | ✅ |
 
 ---
 
